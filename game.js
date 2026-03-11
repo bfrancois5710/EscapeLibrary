@@ -9,7 +9,7 @@ let gameRunning=false
 let score=0
 let speed=6
 
-const player.jpg={
+const player ={
 x:120,
 y:300,
 w:40,
